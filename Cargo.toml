@@ -1,0 +1,9 @@
+[package]
+name = "tetrust"
+version = "0.1.0"
+
+
+[dependencies]
+piston_window = "*"
+rodio = "*"
+rand ="*"
